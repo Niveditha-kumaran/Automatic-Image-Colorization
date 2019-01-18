@@ -61,13 +61,14 @@ The forward pass of the gray scale image takes 40 seconds to process.
 Hence, it just takes 40 seconds to colour an image which in comparison to traditional methods of colouring, is a drastic reduction in time.
 
 The comparison of sample input gray scale images are contrasted with the output coloured images below. 
-![Colored Image](https://github.com/Niveditha-kumaran/Automatic-Image-Colorization/blob/master/Sample%20Outputs/coloured_25.jpg)
+
 ![Original Image](https://github.com/Niveditha-kumaran/Automatic-Image-Colorization/blob/master/Sample%20Outputs/original_25.jpg)
+![Colored Image](https://github.com/Niveditha-kumaran/Automatic-Image-Colorization/blob/master/Sample%20Outputs/coloured_25.jpg)
 
 
-![Colored Image](https://github.com/Niveditha-kumaran/Automatic-Image-Colorization/blob/master/Sample%20Outputs/coloured_20.jpg)
+
 ![Original Image](https://github.com/Niveditha-kumaran/Automatic-Image-Colorization/blob/master/Sample%20Outputs/original_20.jpg)
-
+![Colored Image](https://github.com/Niveditha-kumaran/Automatic-Image-Colorization/blob/master/Sample%20Outputs/coloured_20.jpg)
 
 
 
